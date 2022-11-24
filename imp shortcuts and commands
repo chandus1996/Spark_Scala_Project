@@ -1,3 +1,7 @@
 Ctrl+Alt+Shift+L for xml formatting
 ctrl+ALT+L for formatting scala and spark code
 ctrl+alt+s for settings
+ctrl+K for git commit
+ctrl+shift+K git push
+ctrl+T for git update project
+ctrl+shift+' for git
